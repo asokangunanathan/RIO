@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>Local Environment Execution Profile</name>
+   <tag></tag>
+   <defaultProfile>false</defaultProfile>
+   <GlobalVariableEntity>
+      <description>Number of runs of test cases including re-runs</description>
+      <initValue>[('sample') : 0]</initValue>
+      <name>NUMBER_OF_TESTCASE_RUNS</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>''</initValue>
+      <name>CURRENT_TESTCASE_ID</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Acceptable percentage for image difference</description>
+      <initValue>'0.0'</initValue>
+      <name>acceptCriteria</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Local Environment</description>
+      <initValue>'http://localhost:8080/component-library/'</initValue>
+      <name>envURL1</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>dev Evironment</description>
+      <initValue>'https://dev.b6orgeng.net/component-library/'</initValue>
+      <name>envURL2</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

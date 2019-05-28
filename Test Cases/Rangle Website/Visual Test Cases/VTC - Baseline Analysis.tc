@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>VTC - Baseline Analysis</name>
+   <tag></tag>
+   <comment>>>> wrote the actual page image into $actualFile.toString()
+>>> wrote the ImageDiff into $diffFile.toString()</comment>
+   <testCaseGuid>bd123809-9f1c-4794-be54-8fb395dd0665</testCaseGuid>
+   <variable>
+      <defaultValue>'contact-us'</defaultValue>
+      <description></description>
+      <id>e1487eaf-633d-4b71-b89b-49da1b3d6eaf</id>
+      <masked>false</masked>
+      <name>pageName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>5e6dfab3-1130-47a7-8d7f-f06d40a12ceb</id>
+      <masked>false</masked>
+      <name>nestedLocation</name>
+   </variable>
+   <variable>
+      <defaultValue>'0.00'</defaultValue>
+      <description>Acceptable Difference in Percentage</description>
+      <id>246fabd7-93dd-4cab-b735-633509d748a9</id>
+      <masked>false</masked>
+      <name>acceptableDiff</name>
+   </variable>
+   <variable>
+      <defaultValue>'Screenshots_Baseline_Stage1'</defaultValue>
+      <description></description>
+      <id>6566affb-1d7d-42b9-90ad-f5544b333be0</id>
+      <masked>false</masked>
+      <name>baseLineImageFolder</name>
+   </variable>
+</TestCaseEntity>

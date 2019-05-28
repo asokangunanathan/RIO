@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify Links on Component Pages</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b4b0e859-e183-46e7-a1a0-b5d7b7546e5b</testCaseGuid>
+   <variable>
+      <defaultValue>'who-we-are'</defaultValue>
+      <description></description>
+      <id>1b9b5719-f824-4630-a628-40e7da3915bd</id>
+      <masked>false</masked>
+      <name>pageName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>9eca67fe-660c-421a-b275-cc4a9e489044</id>
+      <masked>false</masked>
+      <name>nestedLocation</name>
+   </variable>
+</TestCaseEntity>

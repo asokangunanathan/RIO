@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>VTC - Create Baseline Image</name>
+   <tag></tag>
+   <comment>>>> wrote the baseLine page image into $baseLineFile.toString()</comment>
+   <testCaseGuid>dbddb85f-e6fc-4640-8a0a-0136914eeeeb</testCaseGuid>
+   <variable>
+      <defaultValue>'contact-us'</defaultValue>
+      <description></description>
+      <id>e1487eaf-633d-4b71-b89b-49da1b3d6eaf</id>
+      <masked>false</masked>
+      <name>pageName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>5e6dfab3-1130-47a7-8d7f-f06d40a12ceb</id>
+      <masked>false</masked>
+      <name>nestedLocation</name>
+   </variable>
+   <variable>
+      <defaultValue>'0.00'</defaultValue>
+      <description>Acceptable Difference in Percentage</description>
+      <id>246fabd7-93dd-4cab-b735-633509d748a9</id>
+      <masked>false</masked>
+      <name>acceptableDiff</name>
+   </variable>
+   <variable>
+      <defaultValue>'Screenshots_Baseline_Stage1'</defaultValue>
+      <description></description>
+      <id>ebaf7b21-dea3-41a2-8d87-b8648300d516</id>
+      <masked>false</masked>
+      <name>baseLineImageFolder</name>
+   </variable>
+</TestCaseEntity>

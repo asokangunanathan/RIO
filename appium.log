@@ -1,0 +1,43 @@
+[Appium] Welcome to Appium v1.9.1
+[Appium] Non-default server args:
+[Appium]   port: 57799
+[Appium]   loglevel: info
+[Appium]   chromeDriverPort: 57800
+[Appium]   tmpDir: /var/folders/2s/0dbvggts7d10hhjl8x6tfy4m0000gn/T//Katalon/Appium/Temp1542255925531
+[Appium] Appium REST http interface listener started on 0.0.0.0:57799
+[HTTP] --> GET /wd/hub/status
+[HTTP] {}
+[HTTP] <-- GET /wd/hub/status 200 7 ms - 67
+[HTTP] 
+[HTTP] --> GET /wd/hub/status
+[HTTP] {}
+[HTTP] <-- GET /wd/hub/status 200 1 ms - 151
+[HTTP] 
+[HTTP] --> POST /wd/hub/session
+[HTTP] {"desiredCapabilities":{"app":"/Users/asokan/Katalon Studio/POC1_1/androidapp/app-release.apk","automationName":"XCUITest","deviceId":"C470984B-A192-4959-923D-142955EA5A81","deviceName":"iPhone 6","fullReset":false,"newCommandTimeout":1800,"noReset":true,"platformName":"iOS","realDeviceLogger":"/Applications/Katalon Studio.app/Contents/Eclipse/configuration/resources/tools/deviceconsole/deviceconsole","test":"test","udid":"3C37DB4F-F684-444B-A9F1-DD18001F2E40","waitForAppScript":"true;","wdaLocalPort":57814},"capabilities":{"desiredCapabilities":{"app":"/Users/asokan/Katalon Studio/POC1_1/androidapp/app-release.apk","automationName":"XCUITest","deviceId":"C470984B-A192-4959-923D-142955EA5A81","deviceName":"iPhone 6","fullReset":false,"newCommandTimeout":1800,"noReset":true,"platformName":"iOS","realDeviceLogger":"/Applications/Katalon Studio.app/Contents/Eclipse/configuration/resources/tools/deviceconsole/deviceconsole","test":"test","udid":"3C37DB4F-F684-444B-A9F1-DD18001F2E40","waitF
+[Appium] Could not parse W3C capabilities: 'deviceName' can't be blank
+[Appium] Trying to fix W3C capabilities by merging them with JSONWP caps
+[BaseDriver] The capabilities ["app","automationName","deviceId","deviceName","fullReset","newCommandTimeout","noReset","realDeviceLogger","test","udid","waitForAppScript","wdaLocalPort"] are not standard capabilities and should have an extension prefix
+[Appium] Creating new XCUITestDriver (v2.94.2) session
+[Appium] Capabilities:
+[Appium]   app: /Users/asokan/Katalon Studio/POC1_1/androidapp/app-release.apk
+[Appium]   automationName: XCUITest
+[Appium]   deviceId: C470984B-A192-4959-923D-142955EA5A81
+[Appium]   deviceName: iPhone 6
+[Appium]   fullReset: false
+[Appium]   newCommandTimeout: 1800
+[Appium]   noReset: true
+[Appium]   realDeviceLogger: /Applications/Katalon Studio.app/Contents/Eclipse/configuration/resources/tools/deviceconsole/deviceconsole
+[Appium]   test: test
+[Appium]   udid: 3C37DB4F-F684-444B-A9F1-DD18001F2E40
+[Appium]   waitForAppScript: true;
+[Appium]   wdaLocalPort: 57814
+[Appium]   platformName: ios
+[BaseDriver] The following capabilities were provided, but are not recognized by appium: deviceId, test.
+[BaseDriver] Session created with session id: dc15442e-bbe2-44b7-ab5b-8305fe23f11d
+[iOSSim] Constructing iOS simulator for Xcode version 10.0 with udid '3C37DB4F-F684-444B-A9F1-DD18001F2E40'
+[XCUITest] Determining device to run tests on: udid: '3C37DB4F-F684-444B-A9F1-DD18001F2E40', real device: false
+[XCUITest] No platformVersion specified. Using device version: '11.4'
+[BaseDriver] Using local app '/Users/asokan/Katalon Studio/POC1_1/androidapp/app-release.apk'
+[HTTP] <-- POST /wd/hub/session 500 948 ms - 1465
+[HTTP] 

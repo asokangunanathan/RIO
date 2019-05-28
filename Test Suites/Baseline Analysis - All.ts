@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>Baseline Analysis - All</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <testSuiteGuid>71bcb3cf-a6c0-4aec-b30e-4651edf86b8f</testSuiteGuid>
+   <testCaseLink>
+      <guid>83f0f508-9abd-42c6-bd90-6134c2090315</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Rangle Website/Visual Test Cases/VTC - Baseline Analysis</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>88c7f22b-2464-4b80-8fcb-42f634e3593c</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Website Data</testDataId>
+      </testDataLink>
+      <variableLink>
+         <testDataLinkId>88c7f22b-2464-4b80-8fcb-42f634e3593c</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>pageName</value>
+         <variableId>e1487eaf-633d-4b71-b89b-49da1b3d6eaf</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>88c7f22b-2464-4b80-8fcb-42f634e3593c</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>nestedLocation</value>
+         <variableId>5e6dfab3-1130-47a7-8d7f-f06d40a12ceb</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>88c7f22b-2464-4b80-8fcb-42f634e3593c</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>acceptableDiff</value>
+         <variableId>246fabd7-93dd-4cab-b735-633509d748a9</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>6566affb-1d7d-42b9-90ad-f5544b333be0</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>
