@@ -13,27 +13,31 @@
    <data>who-we-are null 0.0</data>
    <data>our-services null 0.0</data>
    <data>our-work null 0.0</data>
+   <data>our-work%2Fsynaptive null 0.0</data>
+   <data>our-work%2Finvesco null 0.0</data>
+   <data>our-work%2Fpanduit null 0.0</data>
+   <data>our-work%2Fgoogle null 0.0</data>
    <data>in-the-community null 0.0</data>
    <data>in-the-news null 0.0</data>
    <data>life-at-rangle null 0.0</data>
    <data>our-specialties null 0.0</data>
    <data>careers null 0.0</data>
    <data>contact-us null 0.0</data>
-   <data>null null null</data>
+   <data>blog null 0.0</data>
    <internalDataColumns>
       <columnIndex>0</columnIndex>
       <name>pageName</name>
-      <size>12</size>
+      <size>16</size>
    </internalDataColumns>
    <internalDataColumns>
       <columnIndex>1</columnIndex>
       <name>nestedLocation</name>
-      <size>12</size>
+      <size>16</size>
    </internalDataColumns>
    <internalDataColumns>
       <columnIndex>2</columnIndex>
       <name>acceptableDiff</name>
-      <size>12</size>
+      <size>16</size>
    </internalDataColumns>
    <isInternalPath>false</isInternalPath>
    <query></query>

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>VTC - Component Pages Visual Comparison</name>
+   <name>Visual Comparison of Two Environments</name>
    <tag></tag>
    <comment>>>> wrote the expected page image into $expectedFile.toString()
 >>> wrote the actual page image into $actualFile.toString()
 >>> wrote the ImageDiff into $diffFile.toString()</comment>
    <testCaseGuid>dd786349-1343-4471-be7c-828b68e515bd</testCaseGuid>
    <variable>
-      <defaultValue>''</defaultValue>
+      <defaultValue>'contact-us'</defaultValue>
       <description></description>
       <id>e1487eaf-633d-4b71-b89b-49da1b3d6eaf</id>
       <masked>false</masked>

@@ -39,4 +39,9 @@
       <initValue>'https://rangle.io/'</initValue>
       <name>envURL2</name>
    </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Global Variable for pageName default contact-us</description>
+      <initValue>'contact-us'</initValue>
+      <name>pageName</name>
+   </GlobalVariableEntity>
 </GlobalVariableEntities>

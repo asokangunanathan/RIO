@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Test Functionality</name>
+   <name>Test Contact Us Email Functionality</name>
    <tag></tag>
    <comment></comment>
    <testCaseGuid>b29813d8-b618-4f87-baaa-734485e0f203</testCaseGuid>

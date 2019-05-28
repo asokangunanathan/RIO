@@ -29,4 +29,19 @@
       <initValue>'https://dev.b6orgeng.net/component-library/'</initValue>
       <name>envURL2</name>
    </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>1024</initValue>
+      <name>viewPortWidth</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>768</initValue>
+      <name>viewPortHeight</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Global Variable for pageName default contact-us</description>
+      <initValue>'contact-us'</initValue>
+      <name>pageName</name>
+   </GlobalVariableEntity>
 </GlobalVariableEntities>

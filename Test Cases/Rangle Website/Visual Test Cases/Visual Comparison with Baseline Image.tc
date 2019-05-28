@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>VTC - Create Baseline Image</name>
+   <name>Visual Comparison with Baseline Image</name>
    <tag></tag>
-   <comment>>>> wrote the baseLine page image into $baseLineFile.toString()</comment>
-   <testCaseGuid>dbddb85f-e6fc-4640-8a0a-0136914eeeeb</testCaseGuid>
+   <comment>>>> wrote the actual page image into $actualFile.toString()
+>>> wrote the ImageDiff into $diffFile.toString()</comment>
+   <testCaseGuid>bd123809-9f1c-4794-be54-8fb395dd0665</testCaseGuid>
    <variable>
       <defaultValue>'contact-us'</defaultValue>
       <description></description>
@@ -27,9 +28,9 @@
       <name>acceptableDiff</name>
    </variable>
    <variable>
-      <defaultValue>'Screenshots_Baseline_Stage1'</defaultValue>
+      <defaultValue>'Baseline_Images'</defaultValue>
       <description></description>
-      <id>ebaf7b21-dea3-41a2-8d87-b8648300d516</id>
+      <id>6566affb-1d7d-42b9-90ad-f5544b333be0</id>
       <masked>false</masked>
       <name>baseLineImageFolder</name>
    </variable>
