@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Verify Links on Component Pages</name>
+   <name>Verify Links on Page</name>
    <tag></tag>
    <comment></comment>
    <testCaseGuid>b4b0e859-e183-46e7-a1a0-b5d7b7546e5b</testCaseGuid>
